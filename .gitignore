@@ -6,6 +6,6 @@
 root/
 
 # Ignore a specific file
-adata_filt_ds_df.pkl
-df_norm_filt.pkl
-mm_gastru_small.h5ad
+ex-scrna/adata_filt_ds_df.pkl
+ex-scrna/df_norm_filt.pkl
+ex-scrna/mm_gastru_small.h5ad
