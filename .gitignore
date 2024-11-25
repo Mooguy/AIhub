@@ -1,0 +1,11 @@
+# Ignore log files and temp files
+*.log
+*.tmp
+
+# Ignore the "node_modules" directory
+root/
+
+# Ignore a specific file
+adata_filt_ds_df.pkl
+df_norm_filt.pkl
+mm_gastru_small.h5ad
